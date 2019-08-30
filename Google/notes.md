@@ -22,13 +22,13 @@ I believe it is because of my math background, research experience, and particip
 
 Technical skills I can improve?
 -------------------------------
-*Hashing and mapping: I barely have an idea of what they even are. I know they are critical in doing these technical interviews, but have yet to practice the implementations of them.
-*Dynamic programming: I feel decent in this. However, I want to be execptional. This can seriously make me stand out in the interviews.
+* Hashing and mapping: I barely have an idea of what they even are. I know they are critical in doing these technical interviews, but have yet to practice the implementations of them.
+* Dynamic programming: I feel decent in this. However, I want to be execptional. This can seriously make me stand out in the interviews.
 
 Other skills I can improve?
 ---------------------------
-*Laying out my approach to solving a programming problem: perhaps more pseudo-code and suggesting more than the first solution that comes to mind
-*Reply to emails in a timely manner: this is, like, the worst
+* Laying out my approach to solving a programming problem: perhaps more pseudo-code and suggesting more than the first solution that comes to mind
+* Reply to emails in a timely manner: this is, like, the worst
 
 
 **Goals**
